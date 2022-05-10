@@ -43,7 +43,7 @@ export const Modal = (props) => {
           <div style={contentStyle}>
             <p>これがモーダルウィンドウです。</p>
             <p>
-              <button onClick={() => setShow(false)}>close</button>
+              <button onClick={() => setShow(false)}>閉じる</button>
             </p>
           </div>
         </div>
